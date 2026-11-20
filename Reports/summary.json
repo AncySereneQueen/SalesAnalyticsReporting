@@ -1,0 +1,82 @@
+{
+  "GeneratedOn": "2026-11-19T04:46:08.1485937+05:30",
+  "TotalTransactions": 8,
+  "TotalRevenue": 128900,
+  "MonthlySales": [
+    {
+      "Year": 2025,
+      "Month": 11,
+      "Revenue": 1100
+    },
+    {
+      "Year": 2025,
+      "Month": 12,
+      "Revenue": 900
+    },
+    {
+      "Year": 2026,
+      "Month": 1,
+      "Revenue": 56000
+    },
+    {
+      "Year": 2026,
+      "Month": 2,
+      "Revenue": 3900
+    },
+    {
+      "Year": 2026,
+      "Month": 3,
+      "Revenue": 67000
+    }
+  ],
+  "YearlySales": [
+    {
+      "Year": 2025,
+      "Revenue": 2000
+    },
+    {
+      "Year": 2026,
+      "Revenue": 126900
+    }
+  ],
+  "TopCustomers": [
+    {
+      "Customer": "Anu",
+      "TotalSpent": 56500
+    },
+    {
+      "Customer": "Rahul",
+      "TotalSpent": 56000
+    },
+    {
+      "Customer": "John",
+      "TotalSpent": 13100
+    },
+    {
+      "Customer": "Meera",
+      "TotalSpent": 3300
+    }
+  ],
+  "TopProducts": [
+    {
+      "Product": "Laptop",
+      "QuantitySold": 2,
+      "Revenue": 110000
+    },
+    {
+      "Product": "Monitor",
+      "QuantitySold": 1,
+      "Revenue": 12000
+    },
+    {
+      "Product": "Keyboard",
+      "QuantitySold": 3,
+      "Revenue": 3500
+    },
+    {
+      "Product": "Mouse",
+      "QuantitySold": 7,
+      "Revenue": 3400
+    }
+  ]
+}

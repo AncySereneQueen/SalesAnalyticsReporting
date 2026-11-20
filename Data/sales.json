@@ -1,0 +1,66 @@
+[
+  {
+    "SaleID": 1,
+    "SaleDate": "2026-01-10",
+    "CustomerName": "Anu",
+    "ProductName": "Laptop",
+    "Quantity": 1,
+    "UnitPrice": 55000
+  },
+  {
+    "SaleID": 2,
+    "SaleDate": "2026-01-15",
+    "CustomerName": "Rahul",
+    "ProductName": "Mouse",
+    "Quantity": 2,
+    "UnitPrice": 500
+  },
+  {
+    "SaleID": 3,
+    "SaleDate": "2026-02-05",
+    "CustomerName": "Meera",
+    "ProductName": "Keyboard",
+    "Quantity": 2,
+    "UnitPrice": 1200
+  },
+  {
+    "SaleID": 4,
+    "SaleDate": "2026-02-12",
+    "CustomerName": "Anu",
+    "ProductName": "Mouse",
+    "Quantity": 3,
+    "UnitPrice": 500
+  },
+  {
+    "SaleID": 5,
+    "SaleDate": "2026-03-08",
+    "CustomerName": "John",
+    "ProductName": "Monitor",
+    "Quantity": 1,
+    "UnitPrice": 12000
+  },
+  {
+    "SaleID": 6,
+    "SaleDate": "2026-03-18",
+    "CustomerName": "Rahul",
+    "ProductName": "Laptop",
+    "Quantity": 1,
+    "UnitPrice": 55000
+  },
+  {
+    "SaleID": 7,
+    "SaleDate": "2025-12-20",
+    "CustomerName": "Meera",
+    "ProductName": "Mouse",
+    "Quantity": 2,
+    "UnitPrice": 450
+  },
+  {
+    "SaleID": 8,
+    "SaleDate": "2025-11-10",
+    "CustomerName": "John",
+    "ProductName": "Keyboard",
+    "Quantity": 1,
+    "UnitPrice": 1100
+  }
+]
